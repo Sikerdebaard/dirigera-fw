@@ -120,4 +120,4 @@ Contributions to this project are welcome. Fork the project and submit a pull re
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
