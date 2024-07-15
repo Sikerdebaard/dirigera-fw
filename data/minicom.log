@@ -1,0 +1,109 @@
+NOTICE:  CPU: STM32MP151CAB Rev.?
+NOTICE:  Model: DIRIGERA hub for smart products
+NOTICE:  Bootrom authentication succeeded
+NOTICE:  BL2: v2.4-r2.0(release):v2.4-dirty
+NOTICE:  BL2: Built : 16:43:51, Nov 17 2020
+WARNING: FCONF: Invalid config id 26
+NOTICE:  BL2: Booting BL32
+[    1.070708] stm32-cpufreq stm32-cpufreq: Failed to get chip info: -517
+Starting initramfs ...
+Starting version 244
+Verified OK
+Build flavor: release
+Creating overlay on etc
+Switching root to '/rootfs'...
+[   24.954549] brcmfmac: brcmf_sdio_bus_sleep: error while changing bus sleep state -110
+[*     ] (1 of 2) A start job is running for Data daemon (40s / 2min 8s)
+[**    ] (1 of 2) A start job is running for Data daemon (41s / 2min 8s)
+[***   ] (1 of 2) A start job is running for Data daemon (41s / 2min 8s)
+[ ***  ] (2 of 2) A start job is running for…s REST API server (42s / 3min 35s)
+[  *** ] (2 of 2) A start job is running for…s REST API server (42s / 3min 35s)
+[  OK  ] Started Fluent Bit.
+[  OK  ] Started Data daemon.
+         Starting Check that securi…are secured with integrity....
+[  OK  ] Started Check that securit…s are secured with integrity..
+[   ***] A start job is running for Nexus REST API server (50s / 3min 35s)
+[    **] A start job is running for Nexus REST API server (51s / 3min 35s)
+[     *] A start job is running for Nexus REST API server (51s / 3min 35s)
+[    **] A start job is running for Nexus REST API server (52s / 3min 35s)
+[   ***] A start job is running for Nexus REST API server (52s / 3min 35s)
+[  *** ] A start job is running for Nexus REST API server (53s / 3min 35s)
+[ ***  ] A start job is running for Nexus REST API server (53s / 3min 35s)
+[***   ] A start job is running for Nexus REST API server (54s / 3min 35s)
+[**    ] A start job is running for Nexus REST API server (54s / 3min 35s)
+[*     ] A start job is running for Nexus REST API server (55s / 3min 35s)
+[**    ] A start job is running for Nexus REST API server (55s / 3min 35s)
+[***   ] A start job is running for Nexus REST API server (56s / 3min 35s)
+[ ***  ] A start job is running for Nexus REST API server (56s / 3min 35s)
+[  *** ] A start job is running for Nexus REST API server (57s / 3min 35s)
+[   ***] A start job is running for Nexus REST API server (57s / 3min 35s)
+[    **] A start job is running for Nexus REST API server (58s / 3min 35s)
+[     *] A start job is running for Nexus REST API server (58s / 3min 35s)
+[    **] A start job is running for Nexus REST API server (59s / 3min 35s)
+[   ***] A start job is running for Nexus REST API server (59s / 3min 35s)
+[  *** ] A start job is running for Nexus REST API server (1min / 3min 35s)
+[ ***  ] A start job is running for Nexus REST API server (1min / 3min 35s)
+[***   ] A start job is running for Nexus REST API server (1min / 3min 35s)
+[**    ] A start job is running for Nexus REST API server (1min 1s / 3min 35s)
+[*     ] A start job is running for Nexus REST API server (1min 2s / 3min 35s)
+[**    ] A start job is running for Nexus REST API server (1min 2s / 3min 35s)
+[***   ] A start job is running for Nexus REST API server (1min 3s / 3min 35s)
+[ ***  ] A start job is running for Nexus REST API server (1min 3s / 3min 35s)
+[  *** ] A start job is running for Nexus REST API server (1min 4s / 3min 35s)
+[   ***] A start job is running for Nexus REST API server (1min 4s / 3min 35s)
+[    **] A start job is running for Nexus REST API server (1min 5s / 3min 35s)
+[     *] A start job is running for Nexus REST API server (1min 5s / 3min 35s)
+[    **] A start job is running for Nexus REST API server (1min 6s / 3min 35s)
+[   ***] A start job is running for Nexus REST API server (1min 6s / 3min 35s)
+[  *** ] A start job is running for Nexus REST API server (1min 7s / 3min 35s)
+[ ***  ] A start job is running for Nexus REST API server (1min 7s / 3min 35s)
+[***   ] A start job is running for Nexus REST API server (1min 8s / 3min 35s)
+[**    ] A start job is running for Nexus REST API server (1min 8s / 3min 35s)
+[*     ] A start job is running for Nexus REST API server (1min 9s / 3min 35s)
+[**    ] A start job is running for Nexus REST API server (1min 9s / 3min 35s)
+[***   ] A start job is running for Nexus REST API server (1min 10s / 3min 35s)
+[ ***  ] A start job is running for Nexus REST API server (1min 10s / 3min 35s)
+[  *** ] A start job is running for Nexus REST API server (1min 11s / 3min 35s)
+[   ***] A start job is running for Nexus REST API server (1min 11s / 3min 35s)
+[    **] A start job is running for Nexus REST API server (1min 12s / 3min 35s)
+[     *] A start job is running for Nexus REST API server (1min 12s / 3min 35s)
+[    **] A start job is running for Nexus REST API server (1min 13s / 3min 35s)
+[   ***] A start job is running for Nexus REST API server (1min 13s / 3min 35s)
+[  *** ] A start job is running for Nexus REST API server (1min 14s / 3min 35s)
+[ ***  ] A start job is running for Nexus REST API server (1min 14s / 3min 35s)
+[***   ] A start job is running for Nexus REST API server (1min 15s / 3min 35s)
+[**    ] A start job is running for Nexus REST API server (1min 15s / 3min 35s)
+[*     ] A start job is running for Nexus REST API server (1min 16s / 3min 35s)
+[**    ] A start job is running for Nexus REST API server (1min 16s / 3min 35s)
+[***   ] A start job is running for Nexus REST API server (1min 17s / 3min 35s)
+[ ***  ] A start job is running for Nexus REST API server (1min 17s / 3min 35s)
+[  *** ] A start job is running for Nexus REST API server (1min 17s / 3min 35s)
+[   ***] A start job is running for Nexus REST API server (1min 18s / 3min 35s)
+[    **] A start job is running for Nexus REST API server (1min 19s / 3min 35s)
+[     *] A start job is running for Nexus REST API server (1min 19s / 3min 35s)
+[    **] A start job is running for Nexus REST API server (1min 20s / 3min 35s)
+[   ***] A start job is running for Nexus REST API server (1min 20s / 3min 35s)
+[  *** ] A start job is running for Nexus REST API server (1min 21s / 3min 35s)
+[  OK  ] Started Nexus REST API server.
+         Starting Cloud Connector service...
+[ ***  ] A start job is running for Cloud Co…ctor service (1min 26s / 4min 22s)
+[***   ] A start job is running for Cloud Co…ctor service (1min 26s / 4min 22s)
+[**    ] A start job is running for Cloud Co…ctor service (1min 27s / 4min 22s)
+[*     ] A start job is running for Cloud Co…ctor service (1min 27s / 4min 22s)
+[**    ] A start job is running for Cloud Co…ctor service (1min 28s / 4min 22s)
+[***   ] A start job is running for Cloud Co…ctor service (1min 28s / 4min 22s)
+[ ***  ] A start job is running for Cloud Co…ctor service (1min 29s / 4min 22s)
+[  *** ] A start job is running for Cloud Co…ctor service (1min 29s / 4min 22s)
+[   ***] A start job is running for Cloud Co…ctor service (1min 30s / 4min 22s)
+[    **] A start job is running for Cloud Co…ctor service (1min 30s / 4min 22s)
+[     *] A start job is running for Cloud Co…ctor service (1min 31s / 4min 22s)
+[    **] A start job is running for Cloud Co…ctor service (1min 31s / 4min 22s)
+[   ***] A start job is running for Cloud Co…ctor service (1min 32s / 4min 22s)
+[  *** ] A start job is running for Cloud Co…ctor service (1min 32s / 4min 22s)
+[  OK  ] Started Cloud Connector service.
+[  OK  ] Reached target IKEA Gateway services.
+[  OK  ] Reached target Multi-User System.
+         Starting gateway.target is up LED indicator...
+         Starting Update UTMP about System Runlevel Changes...
+[  OK  ] Started gateway.target is up LED indicator.
+[  OK  ] Started Update UTMP about System Runlevel Changes.

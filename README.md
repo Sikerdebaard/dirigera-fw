@@ -4,6 +4,10 @@ The IKEA Dirigera Hub Firmware, at the time of writing, is available for downloa
 
 ## Findings
 
+### UART
+Device has a UART. It does not seem to connect to a shell but we can observe the boot procedure.
+[minicom.log](data/minicom.log)
+
 ### httpd
 DIRIGERA runs a httpd under nosuid on port 8082. This allows us to read some of the files from the device, e.g.: `http://<dirigera_ip>:8082/usr/lib/node_modules/api-server/src/api/v1/api_specification/openapi.yaml`.
 
