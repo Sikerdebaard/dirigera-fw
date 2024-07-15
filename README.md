@@ -6,6 +6,13 @@ The IKEA Dirigera Hub Firmware, at the time of writing, is available for downloa
 
 ### UART
 Device has a UART. It does not seem to connect to a shell but we can observe the boot procedure.
+
+```bash
+# Raspberry Pi 4
+# after connecting UART TX/RX/GND
+minicom -C /home/pi/minicom.log -b 115200 -o -D /dev/serial0
+```
+
 [minicom.log](data/minicom.log)
 
 ### httpd
